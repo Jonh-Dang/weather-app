@@ -1,5 +1,6 @@
 
 Jonh Dang's Weather Data Compiler.
+JONHDANG@MAIL.com 10/8/22
 ## Prerequisites
  - [Node.js ~v6.9.1](https://nodejs.org/en/): A JavaScript runtime. The code base should be relatively independant of the Node.js version being run.
  - [Yarn](https://yarnpkg.com/lang/en/) (Optional but highly recommended): Depedency management software that typically outperforms npm at installation speed.
