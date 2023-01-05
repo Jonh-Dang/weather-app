@@ -59,8 +59,8 @@ The development-master pattern is used in conjuction with feature branches. Code
 
 **Feature branches**: Feature branches contain major refactored code or implementations of new functionality. Code from feature branches should be merged into the development via pull requests.
 
-## Other cool things our product does
-Our product can handle multiple sessions from different browsers/tabs. Each will have it's own set of clickable buttons to add and remove rainfall and temperature data. We also cache the weather data so new sessions can be served ASAP.
+## Other cool things my product does
+my product can handle multiple sessions from different browsers/tabs. Each will have it's own set of clickable buttons to add and remove rainfall and temperature data. We also cache the weather data so new sessions can be served ASAP.
 
 It also has a google map which can be used to toggle location pins for a weather service.
 
