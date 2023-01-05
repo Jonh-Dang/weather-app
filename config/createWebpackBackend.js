@@ -56,5 +56,4 @@ function createWebpackBackend(entryDirectory)
         }
     }
 }
-
 module.exports = createWebpackBackend;
