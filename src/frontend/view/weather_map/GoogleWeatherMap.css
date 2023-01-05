@@ -1,0 +1,17 @@
+.google-map-container {
+  width: 100%;
+  height: 100%; 
+  display: flex;
+  flex-direction: column;
+
+}
+.google-map {
+  width: 100%;
+  height: 100%; 
+}
+.button-toggle-service {
+  margin: var(--layout-padding-md);
+  position: absolute;
+  align-self: center;
+  background: var(--background-1-light);
+}

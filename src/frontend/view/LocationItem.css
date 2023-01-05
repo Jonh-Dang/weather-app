@@ -1,0 +1,12 @@
+.monitor-options > * {
+  display: block;
+}
+.monitor-options {
+  display: none;
+}
+.monitor-options.visible {
+  display: block; 
+}
+.selected {
+  color: var(--color-good);
+}

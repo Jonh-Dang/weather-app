@@ -1,0 +1,23 @@
+.monitoring-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  display: grid;
+  grid-gap: var(--layout-padding-lg);
+  grid-template-columns: 1fr;
+}
+@media (min-width: 872px){
+  .monitoring-list {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (min-width: 1182px){
+  .monitoring-list {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+.monitoring-item-card {
+  flex-basis: 230px;
+  flex-grow: 1;
+  flex-shrink: 0;
+}
