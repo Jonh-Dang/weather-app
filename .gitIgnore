@@ -1,0 +1,10 @@
+*/.awcache
+.idea
+/idea
+*/idea
+idea
+.vscode
+node_modules
+npm-debug.log
+*/npm-debug.log
+*/npm-debug.log.*
